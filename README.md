@@ -54,7 +54,7 @@ Were you able to figure it out? Check your parameters against the table below (s
 The URL for the second rest request should look like the following:
  https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=GHCND&locationid=FIPS:10003&startdate=2018-01-01&enddate=2018-01-31&limit=1000&offset=1001
 
-Save the ouput to files in the data/summaries directory:
+Save the ouput to files in the data/daily_summaries directory:
 * daily_summaries_FIPS10003_jan_2018_0.json
 * daily_summaries_FIPS10003_jan_2018_1.json
 
